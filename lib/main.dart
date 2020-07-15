@@ -1,4 +1,4 @@
-import 'package:delimeals/categories_screen.dart';
+import 'package:delimeals/screens/categories_screen.dart';
 import 'package:flutter/material.dart';
 
 void main() {
